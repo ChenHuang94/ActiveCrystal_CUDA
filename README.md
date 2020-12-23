@@ -1,2 +1,2 @@
 # ActiveCrystal_CUDA
-# ActiveCrystal_CUDAtest
+# This is a test.
